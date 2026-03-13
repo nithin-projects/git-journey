@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 44
+=======
+four
+4
+>>>>>>> parent of 13bfae5 (added 444 on four.txt)
